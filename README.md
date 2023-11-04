@@ -1,6 +1,6 @@
 # Overview
 
-Pet project for experimenting with zk.
+Pet project for experimenting with [iden3](https://iden3.io/) ans [Circom](https://docs.circom.io/).
 
 Telegram bot for organizing parties for crypto mates with digital identity and zk proofs.
 
