@@ -1,0 +1,16 @@
+{
+  "name": "telegram-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npx mocha",
+    "start": "node server.js"
+  },
+  "author": "Andrey Bronin",
+  "license": "MIT",
+  "dependencies": {
+    "@telegraf/session": "^2.0.0-beta.6",
+    "telegraf": "^4.15.0"
+  }
+}
